@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Babe à!',
     introDesc: `Anh có điều này muốn nói với em là
     Anh đã yêu em từ cái nhìn đầu tiên rồi'
-    btnIntro: 'hihi',
+    btnIntro: 'Hihi',
     title: 'Em có tin vào tình yêu sét đánh không? Nếu không thì bây giờ đã đến lúc em tin rồi, vì anh chính là nạn nhân của tình yêu đó 😙',
     desc: 'Em có yêu anh không ',
     btnYes: 'Yêu anh rất nhiều <33',
