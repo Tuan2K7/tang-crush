@@ -1,11 +1,8 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Em có tin vào tình yêu sét đánh không? Nếu không thì bây giờ đã đến lúc em tin rồi, vì anh chính là nạn nhân của tình yêu đó 😙`,
     btnIntro: 'hihi',
-    title: 'Em có tin vào tình yêu sét đánh không? Nếu không thì bây giờ đã đến lúc em tin rồi, vì anh chính là nạn nhân của tình yêu đó 😙',
+    title: 'Chân lý cuối cùng trên cõi đời vẫn chỉ là tình yêu. Yêu là sống và còn sống là còn yêu. Anh yêu em.',
     desc: 'Em có yêu anh không ',
     btnYes: 'Yêu anh rất nhiều <33',
     btnNo: 'Không, Anh trai à :3',
